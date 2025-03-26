@@ -1,0 +1,42 @@
+.page-title {
+	margin-top: 161px;
+}
+
+.form-group {
+	/* todo */
+	margin-top: 27px;
+}
+
+.input-container {
+	/* todo */
+	margin-bottom: 10px;
+}
+
+.svg-container {
+	width: 149px;
+	height: 149px;
+	text-align: center;
+}
+
+.profile-image-field {
+	text-align: center;
+}
+
+.svg-container ellipse {
+	cx: 74.5;
+	cy: 74.5;
+	rx: 74.5;
+	ry: 74.5;
+	fill: #c4c4c4;
+}
+
+.svg-container input {
+	display: none;
+}
+
+#profile_image {
+	width: 150px;
+	height: 150px;
+	clip-path: circle(75px at 75px 75px);
+	border: solid 1px #000000;
+}

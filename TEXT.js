@@ -1,0 +1,1 @@
+export const CommunityTitle = "아무 말 대잔치";
